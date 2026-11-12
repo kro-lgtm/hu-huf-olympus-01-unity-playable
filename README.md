@@ -2,4 +2,4 @@
 
 Static host for Unity Ads Ad Tester. Source is built by Playable Maker.
 
-Open: [hu-huf-gate-of-olympus-01-r1-Unity.html](./hu-huf-gate-of-olympus-01-r1-Unity.html)
+Open: [hu-huf-gate-of-olympus-01-r2-Unity.html](./hu-huf-gate-of-olympus-01-r2-Unity.html)
